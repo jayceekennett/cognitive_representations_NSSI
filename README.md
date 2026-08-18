@@ -1,6 +1,6 @@
 # Cognitive Representations of Self-Harm as Predictors of Coping and Attitudes Towards Service Engagement
 
-- This repository contains the archived data and sensitivity analysis code for Kennett, J., Friedrich, C., Rahman, R. (2026) Cognitive Representations of Self-Harm as Predictors of Coping and Attitudes Towards Service Engagement *(in press).*
+- This repository contains the archived data and sensitivity analysis code for Kennett, J., Friedrich, C., Rahman, R. (2026) Cognitive Representations of Self-Harm as Predictors of Coping and Attitudes Towards Service Engagement.
 - For a detailed report of the methods and results, see the upcoming publication
 - This project is licensed under the terms of the Creative Commons Attribution 4.0 International license (CC-BY 4.0) (<https://creativecommons.org/licenses/by/4.0/>).
 
